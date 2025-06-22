@@ -5,7 +5,7 @@
 
 ### **Judul**: Drama Troll
 
-### **Deskripsi Singkat:**
+### **Deskripsi:**
 
 Dalam soal ini, kita diminta membuat sebuah filesystem jebakan menggunakan FUSE. Filesystem ini akan bereaksi tergantung siapa user yang mengakses dan apakah "jebakan" sudah aktif atau belum. Fokus dari proyek ini adalah membuat filesystem dinamis dengan perlakuan berbeda untuk user tertentu (dalam hal ini: DainTontas) dan juga efek permanen (persistent trap) setelah trigger dilakukan.
 
