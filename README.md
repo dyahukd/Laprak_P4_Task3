@@ -26,7 +26,7 @@ sudo passwd Ryeku
 
 ### **Penjelasan:**
 
-Perintah `useradd -m` akan membuat user baru sekaligus home directory-nya. Sementara `passwd` digunakan untuk mengatur password masing-masing user. Ketiga user ini merepresentasikan karakter utama di cerita trolling yaitu DainTontas (target) serta SunnyBolt dan Ryeku (perancang jebakan).
+Perintah `useradd -m` akan membuat user baru sekaligus home directory-nya. Sementara `passwd` digunakan untuk mengatur password masing-masing user. Ketiga user ini merepresentasikan karakter utama di cerita trolling yaitu DainTontas serta SunnyBolt dan Ryeku.
 
 ---
 
