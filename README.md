@@ -1,9 +1,7 @@
 
 # Laprak\_P4\_TrollFS - "Drama Troll Filesystem"
 
-## Soal Praktikum 4 - Sistem Operasi
-
-### **Judul**: Drama Troll
+## Task 3 Praktikum 4 - Drama Troll
 
 ### **Deskripsi:**
 
