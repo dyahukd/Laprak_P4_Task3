@@ -39,7 +39,7 @@ Perintah `useradd -m` akan membuat user baru sekaligus home directory-nya. Semen
 
 ### **Kode Lengkap (Revisi Trap):**
 
-```c
+```
 #define FUSE_USE_VERSION 28
 #include <fuse.h>
 #include <stdio.h>
@@ -197,10 +197,12 @@ Setelah `upload.txt` ditulis oleh DainTontas:
 
 ---
 
-## 🖼 Screenshot
+### **Screenshot Hasil:**
 
-1. `ls /mnt/troll` → ada dua file
-2. `cat very_spicy_info.txt` sebelum dan sesudah trigger
-3. Bukti `/tmp/.troll_triggered` terbentuk
+![Image](https://github.com/user-attachments/assets/a8f0487e-dd00-4c62-a0cc-abe4dd7a4973)
+![Image](https://github.com/user-attachments/assets/bc7c7452-a9da-4594-badc-84d58acc6f6d)
+![Image](https://github.com/user-attachments/assets/3461b09c-6dc3-42bb-bd35-41b2c784efbe)
+![Image](https://github.com/user-attachments/assets/21115d5c-cbec-4e39-a91f-47b4704c9de9)
+![Image](https://github.com/user-attachments/assets/d612ee18-784a-436a-a996-dbd8318e968a)
 
 ---
